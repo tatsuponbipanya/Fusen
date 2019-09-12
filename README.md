@@ -7,6 +7,7 @@ Double click on the Fusen can change background color.
 Push the ESC button to close the application.
 
 ## Demo
+<img src="https://github.com/tatsuponbipanya/Fusen/blob/master/ergrerggg.png" alt="Fusen" title="サンプル">
 
 ## VS. 
 
