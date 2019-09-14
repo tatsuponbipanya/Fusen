@@ -16,6 +16,7 @@ Push the ESC button to close the application.
 ## Usage
 
 ## Install
+bin → Release → Fusen.exe
 
 ## Contribution
 
