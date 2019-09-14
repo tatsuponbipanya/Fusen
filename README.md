@@ -17,7 +17,6 @@ Push the ESC button to close the application.
 
 ## Install
 bin → Release → Fusen.exe
-
 ## Contribution
 
 ## Licence
